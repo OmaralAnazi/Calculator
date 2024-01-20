@@ -18,5 +18,5 @@ As a guided exercise in the Scrimba Front-End Developer Program, this project fo
 Clone the repository and open `index.html` in a web browser to use the calculator.
 
 ## Demo
-[View Live Project](#)
+[View Live Project](https://strong-crumble-5b3338.netlify.app/)
 
